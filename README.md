@@ -19,8 +19,8 @@ RFTG est composé de trois applications qui communiquent toutes avec la même ba
 | **Toad** | Spring Boot | API REST — seul point d'accès à Peach |
 | **Peach** | MySQL | Base de données partagée |
 
-- Dépôt Toad + dump SQL Peach : 
-- Dépôt Luigi : 
+- Dépôt Toad + dump SQL Peach : https://github.com/Camille-msc/Toad.git
+- Dépôt Luigi : https://github.com/Camille-msc/Luigi.git
 
 ### Fonctionnement avec Toad
 
