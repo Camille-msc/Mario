@@ -4,14 +4,7 @@ Application d'administration web développée dans le cadre du projet **RFTG (Ra
 
 ## Démonstration
 
-> **Comment ajouter ta vidéo sur GitHub :**
-> - **Option A (recommandée)** : glisse-dépose ta vidéo `.mp4` dans la zone d'édition d'une **Issue** GitHub, copie le lien généré et remplace l'URL ci-dessous.
-> - **Option B** : va dans **Releases** → *Draft a new release* → attache le fichier `.mp4` comme asset, puis copie le lien direct.
-
-```html
-<!-- remplace l'attribut src par ton lien -->
-<video src="URL_DE_LA_VIDEO" controls width="800"></video>
-```
+<video src="https://github.com/user-attachments/assets/950bc273-bacd-4413-90a6-0c4efbf539ab" controls width="800"></video>
 
 ---
 
